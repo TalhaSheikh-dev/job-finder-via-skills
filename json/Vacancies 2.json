@@ -1,0 +1,44 @@
+[
+  {
+    "ID": 1,
+    "title": "Enterprise Data Scientist I",
+    "softSkills": [
+      "Sales",
+      "Presentation Skills",
+      "Mentoring",
+      "Client Management",
+      "Team work"
+    ],
+    "hardSkills": [
+      "Javascript",
+      "C++",
+      "AWS"
+    ],
+    "qualifications": "BA",
+    "salary": 3511,
+    "experience": 4,
+    "country": "USA",
+    "city": "Woodland Hills"
+  },
+  {
+    "ID": 2,
+    "title": "Data Scientist",
+    "softSkills": [
+      "Mentoring",
+      "Sales",
+      "Team work"
+    ],
+    "hardSkills": [
+      "SQL",
+      "Python",
+      "Javascript",
+      "SQL",
+      "Python"
+    ],
+    "qualifications": "MSc",
+    "salary": 2919,
+    "experience": 1,
+    "country": "USA",
+    "city": "Middletown"
+  }
+]

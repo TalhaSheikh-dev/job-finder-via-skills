@@ -1,0 +1,32 @@
+[
+        {
+            "Name": "Jima Perez",
+            "Phone": "0654558089",
+            "Email": "jima.perez@skillfuel.nl",
+            "softSkills": ["Marketing", "Team work", "Teaching", "Presentation"],
+            "hardSkills": ["R", "Python", "Excel"],
+            "jobPreference": ["Hardware", "Remote working", "Education"],
+            "companyPreference": ["Size", "Pension plan"],
+            "salaryAim": 3000,
+            "yearsOfExperience": 4,
+            "Location": {
+            "Country": "NL",
+            "City": "AMS"
+            }
+        },
+        {
+            "Name": "Matthew Remm",
+            "Phone": "0658391233",
+            "Email": "m.remm@kidzcode.nl",
+            "softSkills": ["Team work", "Teaching", "Presentation"],
+            "hardSkills": ["Python", "Excel", "Java", "C++", "C#"],
+            "jobPreference": ["Hardware", "Remote working", "Education"],
+            "companyPreference": ["Small", "Pension plan"],
+            "salaryAim": 3000,
+            "yearsOfExperience": 2,
+            "Location": {
+            "Country": "NL",
+            "City": "DELFT"
+            }
+        }
+]
